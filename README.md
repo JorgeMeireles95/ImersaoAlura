@@ -1,5 +1,5 @@
 
-## Aula 01 -  Consumindo a Api  de filmes com Java 
+## Aula 01 -  Consumindo a API  de filmes com Java 
 
 Gera uma lista dos 250 melhores filmes  com  os seguintes atributos:
   
@@ -17,7 +17,7 @@ Gera uma lista dos 250 melhores filmes  com  os seguintes atributos:
 Versão do Java: openjdk "17.0.3" 2022-04-19 LTS
 
 
-### Screenshots
+### Screenshot
 
 ![Lista de Filmes ](https://github.com/JorgeMeireles95/ImersaoJava/blob/aula-01/Lista%20de%20filmes%20gerada.PNG)
 
