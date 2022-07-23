@@ -1,12 +1,13 @@
 
-### Aula 01 -  Consumindo a Api  de filmes com Java 
+### Aula 02 -   Gerando figurinhas para o Whatsapp.
 
-Gera uma lista dos 250 melhores filmes  com  os seguintes atributos:
+Gera figurinhas editadas com as capas dos filmes:
   
-- Título
-- Classificação dada pelos usuários do site
-- Link da capa do filme.
-
+##  Desáfios realizados
+- Centralizar o texto na figurinha. 
+- Criar diretório de saída das imagens, se ainda não existir.
+- Colocar outra fonte como a Comic Sans ou a Impact, a fonte usada em memes.
+- Tratar as imagens retornadas pela API do IMDB para pegar uma imagem maior ao invés dos thumbnails. Opções: pegar a URL da imagem e remover o trecho mostrado durante a aula ou consumir o endpoint de posters da API do IMDB (mais trabalhoso), tratando o JSON retornado.
 
 
 ## Tecnologias
