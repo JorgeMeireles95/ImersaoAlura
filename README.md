@@ -10,4 +10,4 @@
 
 ### Screenshot
 
-![Foto do espaço ](https://github.com/JorgeMeireles95/ImersaoJava/blob/main/Stephan's%20Quintet%20from%20Webb%2C%20Hubble%2C%20and%20Subaru.png)
+![Foto do espaço ](https://github.com/JorgeMeireles95/ImersaoJava/blob/aula-03/Stephan's%20Quintet%20from%20Webb%2C%20Hubble%2C%20and%20Subaru.png)
