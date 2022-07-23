@@ -14,7 +14,7 @@ Gera figurinhas editadas com as capas dos filmes:
 Versão do Java: openjdk "17.0.3" 2022-04-19 LTS
 
 
-## Screenshots
+## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Imagem da figurinha](https://github.com/JorgeMeireles95/ImersaoJava/blob/aula-02/Exemplo%20de%20Imagem.png)
 
