@@ -6,12 +6,21 @@ Gera figurinhas editadas com as capas dos flogos da linguagens escolhida usando 
 ## Tecnologias
 Versão do Java: openjdk "17.0.3" 2022-04-19 LTS
 
-spring-boot
+Framework: Spring Boot (v3.0.0-M3)
 
 Banco de dados: Mongo Atlas
 
 
 ## Screenshots
+| Imagem 1 | Imagem 2 | 
+|----------|----------|
+| ![ Figurinha do Java gerada](https://raw.githubusercontent.com/JorgeMeireles95/ImersaoAlura/aula-04/alura-stickers/figuras/Java.png) | ![Figurinha do Javascript gerada](https://raw.githubusercontent.com/JorgeMeireles95/ImersaoAlura/aula-04/alura-stickers/figuras/Javascript.png)
+ 
 
-![Imagem da figurinha](https://github.com/JorgeMeireles95/ImersaoJava/blob/aula-02/Exemplo%20de%20Imagem.png)
-![Imagem da figurinha](https://github.com/JorgeMeireles95/ImersaoJava/blob/aula-02/Exemplo%20de%20Imagem.png)
+
+
+
+
+
+ 
+ 
