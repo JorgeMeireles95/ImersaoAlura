@@ -40,7 +40,7 @@ public class GeradoraDeFigurinhas {
 		graphics.drawString("ESPETACULAR //", (novaImagem.getWidth() / 4), (novaAltura - 100));
 
         // escrever a nova imagem em um arquivo
-        File diretorio = new File("figuras");
+        File diretorio = new File("espaco");
 		if (!diretorio.exists()) {
 			diretorio.mkdir();
 		}
