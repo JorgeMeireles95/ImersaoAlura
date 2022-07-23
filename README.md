@@ -10,4 +10,4 @@
 
 ### Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Foto do espaço ](https://github.com/JorgeMeireles95/ImersaoJava/blob/main/Stephan's%20Quintet%20from%20Webb%2C%20Hubble%2C%20and%20Subaru.png)
