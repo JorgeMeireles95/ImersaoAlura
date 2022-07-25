@@ -52,7 +52,7 @@ Colocando a aplicação na  internet
  
 
 
-### Resultado: [API](https://lista-linguagens.herokuapp.com/linguagens)
+### Resultado: [API](https://lista-lin.herokuapp.com/linguagens)
 
 
 
